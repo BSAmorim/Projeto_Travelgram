@@ -2,6 +2,7 @@ header section{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font: var(--text-md);
 }
 
 .profile{
@@ -23,7 +24,6 @@ header section{
 }
 
 .description p{
-  font: var(--text-md);
 }
 
 #info{
