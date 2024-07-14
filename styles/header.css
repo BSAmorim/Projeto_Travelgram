@@ -11,6 +11,13 @@ header section{
   gap: 32px;
 }
 
+.img img{
+  width: 176px;
+  height: 176px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 
 .description{
   width: 384px;
